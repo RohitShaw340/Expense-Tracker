@@ -1,0 +1,15 @@
+.basic {
+  position: relative;
+  display: block;
+  border: hidden;
+  background-color: rgb(55, 55, 122);
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 680px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: 0 3px 7px black;
+}

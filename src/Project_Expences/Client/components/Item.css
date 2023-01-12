@@ -1,0 +1,52 @@
+body {
+  background-color: rgba(7, 51, 84, 0.871);
+}
+
+.item {
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  background-color: #3f3e3e;
+  border-color: rgb(68, 66, 66);
+  border-radius: 40px;
+  border-style: hidden;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  box-shadow: 0 1px 8px #131212;
+  height: 57px;
+}
+
+.name {
+  padding: 7px;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background-color: rgb(61, 10, 63);
+  color: aliceblue;
+  margin-left: auto;
+  margin-right: 2%;
+}
+.price {
+  text-align: center;
+  padding: 10px;
+  border-radius: 50px;
+  display: inline;
+  border: 2px white solid;
+  color: aliceblue;
+  background-color: rgb(69, 11, 123);
+  margin-left: auto;
+  margin-right: 25px;
+}
+
+.cancle {
+  position: relative;
+  left: -10px;
+  border: 2px solid white;
+  color: white;
+  background-color: red;
+  padding: 5px;
+  border-radius: 5px;
+}

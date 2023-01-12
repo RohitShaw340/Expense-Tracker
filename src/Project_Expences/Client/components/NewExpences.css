@@ -1,0 +1,59 @@
+.newExpence {
+  position: relative;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  background-color: rgb(40, 9, 65);
+  border: hidden;
+  border-radius: 10px;
+  box-shadow: 0 1px 8px;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  padding-top: 35px;
+  font-size: 30px;
+  line-height: 35pt;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.input {
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 7px;
+  background-color: rgb(122, 72, 25);
+  color: rgb(239, 234, 189);
+}
+
+input {
+  border: 2px solid rgb(255, 255, 255);
+  background-color: rgb(101, 11, 38);
+  color: rgb(239, 234, 189);
+  padding: 4px;
+  font-size: 20px;
+}
+
+button {
+  position: absolute;
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 7px;
+  background-color: rgb(122, 72, 25);
+  color: rgb(239, 234, 189);
+  font-size: 25px;
+  bottom: 25px;
+  right: 10px;
+}
+
+.setdate {
+  line-height: 15pt;
+}
+.setname {
+  line-height: 15pt;
+}
+.setprice {
+  position: absolute;
+  top: 35px;
+  right: 8px;
+  line-height: 15pt;
+}

@@ -1,0 +1,7 @@
+.date {
+  padding: 7px;
+  border: 2px solid white;
+  border-radius: 40px;
+  background-color: rgb(245, 182, 99);
+  color: rgba(13, 25, 67, 0.882);
+}
